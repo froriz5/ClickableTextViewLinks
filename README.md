@@ -3,7 +3,7 @@ TextView enhancement allowing the ability to set click listeners to one or more 
 
 Example:
 <p align="center">
-  <img src="ExampleActivity.png" width="350"/>
+  <img src="ExampleActivity.png"/>
 </p>
 
 Code Snippet
