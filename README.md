@@ -1,5 +1,6 @@
 # ClickableTextViewLinks
 TextView enhancement allowing the ability to set click listeners to one or more substrings in the textview.
+This class extends TextView and exposes methods to create Clickable Spans on different Substrings of the TextView's text.
 
 <img src="ExampleActivity.png" width=200px></img>
 
@@ -39,3 +40,9 @@ Code Snippet
   }, Color.BLUE);
 
   textView.addLinks(link1, link2, link3);
+```
+
+<b>Known Issues:</b>
+Currently does not support multiple substrings of the same value. 
+Ex: "This This is a test"
+Only the first "This" will have a link.
