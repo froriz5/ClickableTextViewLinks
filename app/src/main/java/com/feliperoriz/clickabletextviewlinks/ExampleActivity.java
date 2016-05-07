@@ -15,9 +15,6 @@ public class ExampleActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ClickableTextView textView = (ClickableTextView) findViewById(R.id.clickedTextView);
-        if (textView == null) {
-            return;
-        }
 
         String testString = "One, Two, Three, Four";
         textView.setText(testString);
