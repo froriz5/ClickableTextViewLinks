@@ -1,5 +1,5 @@
 # ClickableTextViewLinks
-TextView enhancement allowing the ability to set click listeners to one or more substrings in the textview.
+TextView enhancement allowing the ability to set click listeners to one or more substrings in the textview.</br>
 This class extends TextView and exposes methods to create Clickable Spans on different Substrings of the TextView's text.
 
 <img src="ExampleActivity.png" width=200px></img>
