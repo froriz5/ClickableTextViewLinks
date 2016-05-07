@@ -1,7 +1,7 @@
 # ClickableTextViewLinks
 TextView enhancement allowing the ability to set click listeners to one or more substrings in the textview.
 
-![alt tag](ExampleActivity.png)
+<img src="ExampleActivity.png" width=200px></img>
 
 
 Code Snippet
