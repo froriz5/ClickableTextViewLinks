@@ -44,5 +44,5 @@ Code Snippet
 
 <b>Known Issues:</b></br>
 Currently does not support multiple substrings of the same value.</br>
-Ex: "This This is a test"</br>
-Only the first "This" will have a link.
+> Ex: "This This is a test"</br>
+> Only the first "This" will have a link.
