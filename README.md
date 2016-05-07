@@ -42,7 +42,7 @@ Code Snippet
   textView.addLinks(link1, link2, link3);
 ```
 
-<b>Known Issues:</b>
-Currently does not support multiple substrings of the same value. 
-Ex: "This This is a test"
+<b>Known Issues:</b></br>
+Currently does not support multiple substrings of the same value.</br>
+Ex: "This This is a test"</br>
 Only the first "This" will have a link.
