@@ -2,9 +2,6 @@
 TextView enhancement allowing the ability to set click listeners to one or more substrings in the textview.
 
 Example:
-<p align="center">
-  <img src="ExampleActivity.png"/>
-</p>
 
 Code Snippet
 ```Java
